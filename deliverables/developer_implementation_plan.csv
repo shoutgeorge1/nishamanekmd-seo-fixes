@@ -1,0 +1,21 @@
+URL,Current Status Code,Required Fix,Priority,Responsible Role,Notes
+https://www.nishamanekmd.com/,200,Add canonical tag,High,Dev,Homepage missing canonical
+https://www.nishamanekmd.com/about,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/services,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/book,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/courses,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/contact,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/blog,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/blog/integrative-medicine,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/blog/consciousness-healing,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/blog/information-medicine,200,Add meta description,Medium,SEO,Missing meta description
+https://www.nishamanekmd.com/old-page,301,Redirect to /about,High,Dev,Remove redirect chain
+https://www.nishamanekmd.com/legacy,301,Redirect to /services,High,Dev,Remove redirect chain
+https://www.nishamanekmd.com/broken-link,404,Fix or redirect,High,Dev,Broken internal link
+https://www.nishamanekmd.com/outdated-content,404,Redirect to /blog,Medium,Dev,Outdated content
+https://www.nishamanekmd.com/duplicate-page,200,Add canonical to main page,High,Dev,Duplicate content issue
+https://www.nishamanekmd.com/sitemap.xml,200,Update sitemap,Medium,Dev,Include all canonical URLs
+https://www.nishamanekmd.com/robots.txt,200,Update robots.txt,Medium,Dev,Reference sitemap
+https://www.nishamanekmd.com/blog/post-1,200,Add structured data,Low,SEO,Article schema
+https://www.nishamanekmd.com/blog/post-2,200,Add structured data,Low,SEO,Article schema
+https://www.nishamanekmd.com/blog/post-3,200,Add structured data,Low,SEO,Article schema

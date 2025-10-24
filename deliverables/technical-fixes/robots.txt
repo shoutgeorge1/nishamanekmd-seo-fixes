@@ -1,0 +1,45 @@
+# Robots.txt for nishamanekmd.com
+# Updated: 2025-01-XX
+# CRITICAL FIX: Missing robots.txt causing 404 errors
+
+User-agent: *
+Allow: /
+
+# Block admin/private areas (if any)
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /sanity/
+
+# Sitemap location
+Sitemap: https://www.nishamanekmd.com/sitemap.xml
+
+# Crawl delay for good measure
+Crawl-delay: 1
+
+# Allow major search engines full access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# IMPLEMENTATION STEPS:
+# 1. Create file at: public/robots.txt
+# 2. Paste this content
+# 3. Commit: git add public/robots.txt && git commit -m "Add robots.txt"
+# 4. Deploy (Vercel will auto-serve from /public)
+# 5. Verify: curl https://www.nishamanekmd.com/robots.txt

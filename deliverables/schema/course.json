@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Rheumatoid Relief Program",
+  "description": "A comprehensive integrative medicine program designed to help patients manage rheumatoid arthritis through consciousness healing, information medicine, and evidence-based holistic approaches.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Nisha Manek, MD",
+    "url": "https://www.nishamanekmd.com"
+  },
+  "instructor": {
+    "@type": "Person",
+    "name": "Dr. Nisha Manek, MD",
+    "url": "https://www.nishamanekmd.com"
+  },
+  "courseMode": "https://schema.org/OnlineOrDistance",
+  "educationalLevel": "Beginner",
+  "inLanguage": "en-US",
+  "timeRequired": "P8W",
+  "coursePrerequisites": "Basic understanding of rheumatoid arthritis",
+  "syllabusSections": [
+    {
+      "@type": "Syllabus",
+      "name": "Understanding Rheumatoid Arthritis",
+      "description": "Comprehensive overview of RA pathophysiology and conventional treatments"
+    },
+    {
+      "@type": "Syllabus",
+      "name": "Consciousness Healing Techniques",
+      "description": "Introduction to consciousness-based healing approaches for autoimmune conditions"
+    },
+    {
+      "@type": "Syllabus",
+      "name": "Information Medicine Applications",
+      "description": "Practical applications of information medicine in rheumatoid arthritis management"
+    },
+    {
+      "@type": "Syllabus",
+      "name": "Lifestyle and Nutrition",
+      "description": "Holistic lifestyle modifications and anti-inflammatory nutrition strategies"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": "497",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2024-01-01"
+  },
+  "url": "https://www.nishamanekmd.com/courses"
+}

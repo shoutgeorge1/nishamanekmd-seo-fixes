@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dr. Nisha Manek, MD",
+  "jobTitle": "Integrative Medicine Physician",
+  "description": "Leading integrative medicine physician specializing in consciousness healing, information medicine, and bridging science with spirituality.",
+  "url": "https://www.nishamanekmd.com",
+  "image": "https://www.nishamanekmd.com/images/dr-nisha-manek.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/in/nishamanekmd",
+    "https://www.researchgate.net/profile/Nisha-Manek",
+    "https://twitter.com/nishamanekmd"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Nisha Manek, MD",
+    "url": "https://www.nishamanekmd.com"
+  },
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "Mayo Clinic College of Medicine"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Doctor of Medicine",
+      "credentialCategory": "degree"
+    }
+  ],
+  "knowsAbout": [
+    "Integrative Medicine",
+    "Consciousness Healing",
+    "Information Medicine",
+    "Rheumatoid Arthritis Treatment",
+    "Holistic Wellness"
+  ]
+}

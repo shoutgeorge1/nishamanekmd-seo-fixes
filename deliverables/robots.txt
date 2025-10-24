@@ -1,0 +1,36 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.nishamanekmd.com/sitemap.xml
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin and private areas
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Allow important files
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/*/css/
+Allow: /wp-content/themes/*/js/
+Allow: /wp-content/themes/*/images/
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

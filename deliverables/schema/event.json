@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Speaking Engagement Template",
+  "description": "Template for Dr. Nisha Manek's speaking engagements on integrative medicine, consciousness healing, and information medicine.",
+  "organizer": {
+    "@type": "Person",
+    "name": "Dr. Nisha Manek, MD",
+    "url": "https://www.nishamanekmd.com"
+  },
+  "performer": {
+    "@type": "Person",
+    "name": "Dr. Nisha Manek, MD",
+    "url": "https://www.nishamanekmd.com"
+  },
+  "startDate": "2024-06-15T09:00:00-07:00",
+  "endDate": "2024-06-15T17:00:00-07:00",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+    "@type": "Place",
+    "name": "Conference Center",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "123 Main Street",
+      "addressLocality": "Scottsdale",
+      "addressRegion": "AZ",
+      "postalCode": "85251",
+      "addressCountry": "US"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2024-01-01"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Healthcare Professionals, Integrative Medicine Practitioners"
+  },
+  "keywords": "integrative medicine, consciousness healing, information medicine, medical conference",
+  "inLanguage": "en-US"
+}

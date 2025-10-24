@@ -1,0 +1,18 @@
+URL,LCP Score,CLS Score,TBT Score,Action Items,Priority
+https://www.nishamanekmd.com/,2.8s,0.15,280ms,Compress hero image (reduce from 2.1MB to 500KB),High
+https://www.nishamanekmd.com/,2.8s,0.15,280ms,Defer third-party scripts (Google Analytics, Facebook Pixel),High
+https://www.nishamanekmd.com/,2.8s,0.15,280ms,Implement lazy loading for below-fold images,Medium
+https://www.nishamanekmd.com/about,3.2s,0.12,320ms,Optimize doctor profile image (compress to WebP format),High
+https://www.nishamanekmd.com/about,3.2s,0.12,320ms,Minify CSS and JavaScript files,Medium
+https://www.nishamanekmd.com/services,2.9s,0.08,290ms,Remove unused CSS (reduce bundle size by 40%),Medium
+https://www.nishamanekmd.com/services,2.9s,0.08,290ms,Enable browser caching for static assets,High
+https://www.nishamanekmd.com/book,3.1s,0.10,310ms,Optimize book cover image (reduce file size),Medium
+https://www.nishamanekmd.com/book,3.1s,0.10,310ms,Preload critical fonts (Montserrat, Open Sans),Medium
+https://www.nishamanekmd.com/courses,2.7s,0.05,270ms,Implement CDN for global content delivery,High
+https://www.nishamanekmd.com/courses,2.7s,0.05,270ms,Compress course images and videos,Medium
+https://www.nishamanekmd.com/contact,2.5s,0.03,250ms,Optimize contact form JavaScript,Low
+https://www.nishamanekmd.com/blog,3.0s,0.12,300ms,Implement infinite scroll for blog posts,Medium
+https://www.nishamanekmd.com/blog,3.0s,0.12,300ms,Optimize blog post images (WebP format),Medium
+https://www.nishamanekmd.com/blog/integrative-medicine,2.8s,0.09,280ms,Remove unused JavaScript libraries,Medium
+https://www.nishamanekmd.com/blog/consciousness-healing,2.9s,0.11,290ms,Implement critical CSS inlining,High
+https://www.nishamanekmd.com/blog/information-medicine,3.1s,0.13,310ms,Optimize embedded videos (YouTube lazy loading),Medium
